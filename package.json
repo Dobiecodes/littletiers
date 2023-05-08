@@ -19,5 +19,13 @@
   "dependencies": {
     "express": "^4.17.1",
     "lowdb": "^1.0.0"
+  },
+  {"build": "npm install",
+
+  "start": "node http_server.js",
+  "engines": {
+
+    "node": "18.15.0"
+
   }
 }
